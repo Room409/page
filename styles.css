@@ -1,0 +1,33 @@
+.bg-custom{
+    background-color: rgb(6, 61, 54);
+}
+
+.custom-btn{
+    background-color: rgb(155, 192, 155);
+    color: #ffffff;
+    padding: 4px 13px;
+    border: none;
+    border-radius: 3px;
+    font-weight: 600;
+}
+.f-custom{
+    font-size: 3.5rem;
+    font-weight: 600;
+}
+
+.learn-btn{
+    background-color: rgb(155, 192, 155);
+    border-radius: 5px;
+    border:none;
+    padding: 7px;
+    color: #ffffff;
+    padding: 10px 30px;
+}
+
+.footer-color{
+    background-color: rgb(166, 189, 166);
+}
+
+.container-footer{
+    height: 160px;
+}
